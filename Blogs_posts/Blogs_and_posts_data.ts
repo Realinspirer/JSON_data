@@ -30,6 +30,11 @@ Blogs_and_posts_data.push(
                 btn_string: "Watch Video",
                 click_url:"https://youtu.be/1xkqAfQTgCE",
                 external: true
+            },
+            {
+                btn_string: "Watch Shorts Video",
+                click_url:"https://youtube.com/shorts/YTIzMCjtuBA",
+                external: true
             }
         ]
     }
