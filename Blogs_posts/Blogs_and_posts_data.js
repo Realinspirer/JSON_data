@@ -1,6 +1,17 @@
 "use strict";
 const Blogs_and_posts_data = new Array();
 Blogs_and_posts_data.push({
+    title: "3D Background Design for Upcoming Video [Age Shenanigans]",
+    subtitle: "I created this background which consists of array of cubes which randomly light up giving it a very unique and futuristic feel and vibe.\n\n This background is gonna be used in my upcoming video. I made this using Blender. I utilized components like modelling, shading and also compositing to get this final render.",
+    date: "28th November 2024",
+    imgs: [
+        "/Blogs/Images/age_video/back/0.jpg",
+        "/Blogs/Images/age_video/back/1.jpg",
+        "/Blogs/Images/age_video/back/2.jpg",
+        "/Blogs/Images/age_video/back/3.jpg",
+    ]
+});
+Blogs_and_posts_data.push({
     title: "Today's my birthday! 🎂🎂",
     subtitle: "I heavily modified my cover picture and rendered it out using Blender.\n\n It shows components from the project that I am working on nowadays. \n\nIt also has the quote \"Let's continue creating greatness!\" that forever reminds me that my run has already started and I am gonna 'continue' on it!",
     date: "10th November 2024",
