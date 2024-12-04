@@ -7,6 +7,7 @@ Blogs_and_posts_data.push(
         date: "5th December 2024",
         imgs:[
             "/Blogs/Images/age_video/thumbnail.jpg",
+            "/Blogs/Images/age_video/thumbnail_v.jpg",
             "/Blogs/Images/age_video/screenshots/0.jpg",
             "/Blogs/Images/age_video/screenshots/1.jpg",
             "/Blogs/Images/age_video/screenshots/2.jpg",
