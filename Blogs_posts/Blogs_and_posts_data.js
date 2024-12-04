@@ -1,6 +1,25 @@
 "use strict";
 const Blogs_and_posts_data = new Array();
 Blogs_and_posts_data.push({
+    title: "Have People LOST Their MINDs? [Age Shenanigans]",
+    subtitle: "I found a post online and some comments regarding it. I tried to describe my opinions on the topic in this video. Talking about various comments with some jokes and foolishness! 😋\n\n This video features some spicy 🌶️ and amazing video editing and effects that I created using DaVinci Resolve and Blender.",
+    date: "5th December 2024",
+    imgs: [
+        "/Blogs/Images/age_video/thumbnail.jpg",
+        "/Blogs/Images/age_video/screenshots/0.jpg",
+        "/Blogs/Images/age_video/screenshots/1.jpg",
+        "/Blogs/Images/age_video/screenshots/2.jpg",
+        "/Blogs/Images/age_video/screenshots/3.jpg",
+    ],
+    btns: [
+        {
+            btn_string: "Watch Video",
+            click_url: "https://youtu.be/6wR1wl_W2F4",
+            external: true
+        }
+    ]
+});
+Blogs_and_posts_data.push({
     title: "3D Background Design for Upcoming Video [Age Shenanigans]",
     subtitle: "I created this background which consists of array of cubes which randomly light up giving it a very unique and futuristic feel and vibe.\n\n This background is gonna be used in my upcoming video. I made this using Blender. I utilized components like modelling, shading and also compositing to get this final render.",
     date: "28th November 2024",
