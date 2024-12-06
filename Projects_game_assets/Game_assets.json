@@ -7,8 +7,8 @@
         "date": "28th August 2024",
         "buttons": [
             {
-                "label": "Visit Assets Page ↗",
-                "action": "/Games/Banana_Bounce!/Assets/"
+                "label": "Visit Games Page ↗",
+                "action": "/Games/Banana_Bounce!/"
             }
         ]
     },
