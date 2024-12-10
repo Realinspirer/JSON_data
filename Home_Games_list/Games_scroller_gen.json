@@ -35,6 +35,12 @@
         "click_url":"/Games/Drag_Race/"
     },
     {
+        "img_path":"/Games/Inversion_2048/Images/logo.jpg",
+        "custom_style":"--fit:contain; --background:linear-gradient(white, #8e8e8e, black 95% 100%)",
+        "click_url":"/Games/Inversion_2048/",
+        "window_argument":"_self"
+    },
+    {
         "img_path":"/Images/Games/escape.png",
         "custom_style":"--fit:contain; --background:url(/Images/Games/escape_back.png)",
         "window_argument":"_self"

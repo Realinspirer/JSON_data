@@ -58,8 +58,10 @@
         "title":"INVERSION 2048",
         "subtitle":"Games • Puzzles",
         "description":"2048 but twisty!",
-        "image_url":"\\Images\\Normal_section\\dr.png",
+        "image_url":"/Games/Inversion_2048/Images/logo.jpg",
+        "image_cover":"/Games/Inversion_2048/Images/logo.jpg",
         "button_text":"Play now",
-        "click_url":""
+        "click_url":"/Games/Inversion_2048/",
+        "custom_data":"play"
     }   
 ]
