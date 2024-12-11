@@ -62,5 +62,15 @@
         "image_cover":"/Games/Inversion_2048/Images/logo.jpg",
         "button_text":"Play now",
         "click_url":"/Games/Inversion_2048/"
+    },
+    {
+        "title":"Escape It!",
+        "subtitle":"Games • Escape",
+        "description":"Escape at your own risk!",
+        "image_url":"/Games/Escape_it/Images/logo.jpg",
+        "image_cover":"/Games/Escape_it/Images/logo.jpg",
+        "button_text":"Play now",
+        "click_url":"/Games/Escape_it/",
+        "custom_data":"play"
     }   
 ]
