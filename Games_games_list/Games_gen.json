@@ -70,7 +70,6 @@
         "image_url":"/Games/Escape_it/Images/logo.jpg",
         "image_cover":"/Games/Escape_it/Images/logo.jpg",
         "button_text":"Play now",
-        "click_url":"/Games/Escape_it/",
-        "custom_data":"play"
+        "click_url":"/Games/Escape_it/"
     }   
 ]
