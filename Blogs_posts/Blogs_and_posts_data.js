@@ -17,6 +17,11 @@ Blogs_and_posts_data.push({
             btn_string: "Watch Video",
             click_url: "https://youtu.be/6wR1wl_W2F4",
             external: true
+        },
+        {
+            btn_string: "Watch Shorts Video",
+            click_url: "https://youtube.com/shorts/C3RuJww71SY",
+            external: true
         }
     ],
     tags: "VideoEditing, DaVinciResolve, YouTube, Talking, Podcast, Meme"
