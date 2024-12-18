@@ -7,8 +7,9 @@
         "date": "28th August 2024",
         "buttons": [
             {
-                "label": "Visit Games Page ↗",
-                "action": "/Games/Banana_Bounce!/"
+                "label": "Visit Games Page →",
+                "action": "/Games/Banana_Bounce!/",
+                "additional_info":["self"]
             }
         ]
     },
@@ -20,33 +21,14 @@
         "date": "28th August 2024",
         "buttons": [
             {
-                "label": "View Assets",
+                "label": "View Asset",
                 "action": "viewer"
             }
         ],
         "viewer_btns":[
             {
-                "label": "Visit Banana Bounce Assets page",
-                "action": "/Games/Banana_Bounce!/Assets/"
-            }
-        ]
-    },
-    {
-        "img_path": "/Games/Banana_Bounce!/Images/Assets/bb_ch.png",
-        "custom_style": "--fit:cover;",
-        "title": "Banana Bounce Characters",
-        "desc": "In Banana Bounce, you can see some cool and fun characters, most of which are actually first made in 3D and then rendered, which adds another level of depth to the assets!",
-        "date": "28th August 2024",
-        "buttons": [
-            {
-                "label": "View Assets",
-                "action": "viewer"
-            }
-        ],
-        "viewer_btns":[
-            {
-                "label": "Visit Banana Bounce Assets page",
-                "action": "/Games/Banana_Bounce!/Assets/"
+                "label": "Visit Banana Bounce! page",
+                "action": "/Games/Banana_Bounce!/"
             }
         ]
     },
@@ -64,27 +46,8 @@
         ],
         "viewer_btns":[
             {
-                "label": "Visit Banana Bounce Assets page",
-                "action": "/Games/Banana_Bounce!/Assets/"
-            }
-        ]
-    },
-    {
-        "img_path": "/Games/Banana_Bounce!/Images/Assets/tuto_render.png",
-        "custom_style":"--fit:cover;",
-        "title": "Banana Bounce UI",
-        "desc": "UI in the game uses fun and vibrant assets and also follows some really creative and clutter free layout, that gives it its minimal vibe!",
-        "date": "28th August 2024",
-        "buttons": [
-            {
-                "label": "View Assets",
-                "action": "viewer"
-            }
-        ],
-        "viewer_btns":[
-            {
-                "label": "Visit Banana Bounce Assets page",
-                "action": "/Games/Banana_Bounce!/Assets/"
+                "label": "Visit Banana Bounce! page",
+                "action": "/Games/Banana_Bounce!/"
             }
         ]
     },
@@ -142,6 +105,44 @@
             {
                 "label": "Let's work together!",
                 "action": "mail"
+            }
+        ]
+    },
+    {
+        "img_path": "/Games/Banana_Bounce!/Images/Assets/bb_ch.png",
+        "custom_style": "--fit:cover;",
+        "title": "Banana Bounce Characters",
+        "desc": "In Banana Bounce, you can see some cool and fun characters, most of which are actually first made in 3D and then rendered, which adds another level of depth to the assets!",
+        "date": "28th August 2024",
+        "buttons": [
+            {
+                "label": "View Asset",
+                "action": "viewer"
+            }
+        ],
+        "viewer_btns":[
+            {
+                "label": "Visit Banana Bounce! page",
+                "action": "/Games/Banana_Bounce!/"
+            }
+        ]
+    },
+    {
+        "img_path": "/Games/Banana_Bounce!/Images/Assets/tuto_render.png",
+        "custom_style":"--fit:cover;",
+        "title": "Banana Bounce UI",
+        "desc": "UI in the game uses fun and vibrant assets and also follows some really creative and clutter free layout, that gives it its minimal vibe!",
+        "date": "28th August 2024",
+        "buttons": [
+            {
+                "label": "View Asset",
+                "action": "viewer"
+            }
+        ],
+        "viewer_btns":[
+            {
+                "label": "Visit Banana Bounce! page",
+                "action": "/Games/Banana_Bounce!/"
             }
         ]
     }
