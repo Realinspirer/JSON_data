@@ -1,26 +1,26 @@
 [
     {
-        "title":"ImageSHOT!",
+        "title":"Due Tracker",
         "subtitle":"Apps • Utilities",
-        "description":"Export images in a grid",
-        "image_url":"Images\\Normal_section\\imageshot.png",
+        "description":"Track client dues",
+        "image_url":"/Apps/Images/dt/DT_sq.png",
         "button_text":"Learn more",
-        "click_url":""
+        "click_url":"/Apps/#DueTracker"
     },
     {
         "title":"Items Tracker",
         "subtitle":"Apps • Utilities",
         "description":"Products price tracker",
-        "image_url":"Images\\Normal_section\\items.png",
+        "image_url":"/Apps/Images/item_T/logo.png",
         "button_text":"Learn more",
-        "click_url":""
+        "click_url":"/Apps/#ItemsTracker"
     },
     {
-        "title":"Due Tracker",
+        "title":"ImageSHOT!",
         "subtitle":"Apps • Utilities",
-        "description":"Track client dues",
-        "image_url":"Images\\Normal_section\\due.png",
+        "description":"Export images in a grid",
+        "image_url":"/Apps/Images/im_sh/logo.png",
         "button_text":"Learn more",
-        "click_url":""
+        "click_url":"/Apps/#ImageSHOT"
     }
 ]

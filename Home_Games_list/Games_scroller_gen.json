@@ -41,8 +41,9 @@
         "window_argument":"_self"
     },
     {
-        "img_path":"/Images/Games/escape.png",
-        "custom_style":"--fit:contain; --background:url(/Images/Games/escape_back.png)",
+        "img_path":"/Games/Escape_it/Images/logo_transparent.png",
+        "custom_style":"--fit:contain; --background:url(/Games/Escape_it/Images/escape_back.png)",
+        "click_url":"/Games/Escape_it/",
         "window_argument":"_self"
     }
 ]
