@@ -5,7 +5,7 @@ Blogs_and_posts_data.push({
     subtitle: "Browse through all my work, and hard work. You can and will find all the things I have done and will be doing in the future!\n This is my - Realinspirer's project website.\n\n[Design made using Blender] \n\nWith ❤️ by Realinspirer. ",
     date: "20th December 2024",
     imgs: [
-        "/Blogs/Images/page_live/0.png"
+        "/Blogs/Images/page_live/0.jpg"
     ],
     tags: "Website, Works, Project, Portfolio"
 });
