@@ -1,7 +1,7 @@
 "use strict";
 const Blogs_and_posts_data = new Array();
 Blogs_and_posts_data.push({
-    title: "This Website is Finally Finished & LIVE!",
+    title: "This Website Is Finally Finished & LIVE!",
     subtitle: "Browse through all my work, and hard work. You can and will find all the things I have done and will be doing in the future!\n This is my - Realinspirer's project website.\n\n[Design made using Blender] \n\nWith ❤️ by Realinspirer. ",
     date: "20th December 2024",
     imgs: [
