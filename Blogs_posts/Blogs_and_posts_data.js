@@ -1,6 +1,23 @@
 "use strict";
 const Blogs_and_posts_data = new Array();
 Blogs_and_posts_data.push({
+    title: "Bubbles Background Design for Apps Demonstration",
+    subtitle: "I created these bubbles and noisy background design in Blender to use them for features demonstration for my various apps that you can see on the apps page. \n\n These are quite simple and nothing complex, but still somewhat clean and good for the job!",
+    date: "20th December 2024",
+    imgs: [
+        "/Blogs/Images/back_apps/1.jpg",
+        "/Blogs/Images/back_apps/01.jpg",
+        "/Blogs/Images/back_apps/2.jpg"
+    ],
+    btns: [
+        {
+            btn_string: "Apps Page",
+            click_url: "/Apps/"
+        }
+    ],
+    tags: "Apps, Application, Windows, Android, AppDevelopment, Blender, BackgroundDesign"
+});
+Blogs_and_posts_data.push({
     title: "Have People LOST Their MINDs? [Age Shenanigans]",
     subtitle: "I found a post online and some comments regarding it. I tried to describe my opinions on the topic in this video. Talking about various comments with some jokes and foolishness! 😋\n\n This video features some spicy 🌶️ and amazing video editing and effects that I created using DaVinci Resolve and Blender.",
     date: "5th December 2024",
