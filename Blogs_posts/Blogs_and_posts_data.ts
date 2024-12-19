@@ -2,6 +2,18 @@ const Blogs_and_posts_data = new Array<Data_class_multiple_imgs_btn>();
 
 Blogs_and_posts_data.push(
     {
+        title:"This Website is Finally Finished & LIVE!",
+        subtitle:"Browse through all my work, and hard work. You can and will find all the things I have done and will be doing in the future!\n This is my - Realinspirer's project website.\n\n[Design made using Blender] \n\nWith ❤️ by Realinspirer. ",
+        date: "20th December 2024",
+        imgs:[
+            "/Blogs/Images/page_live/0.png"
+        ],
+        tags:"Website, Works, Project, Portfolio, Blender"
+    }
+);
+
+Blogs_and_posts_data.push(
+    {
         title:"Bubbles Background Design for Apps Demonstration",
         subtitle:"I created these bubbles and noisy background design in Blender to use them for features demonstration for my various apps that you can see on the apps page. \n\n These are quite simple and nothing complex, but still somewhat clean and good for the job!",
         date: "20th December 2024",
