@@ -7,7 +7,7 @@ Blogs_and_posts_data.push({
     imgs: [
         "/Blogs/Images/page_live/0.png"
     ],
-    tags: "Website, Works, Project, Portfolio, Blender"
+    tags: "Website, Works, Project, Portfolio"
 });
 Blogs_and_posts_data.push({
     title: "Bubbles Background Design for Apps Demonstration",
