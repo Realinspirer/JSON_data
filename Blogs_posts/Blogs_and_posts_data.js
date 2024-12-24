@@ -1,6 +1,24 @@
 "use strict";
 const Blogs_and_posts_data = new Array();
 Blogs_and_posts_data.push({
+    title: "Background Design for Upcoming Video (Clash of Clans Experiences)",
+    subtitle: "I designed another slow-moving animated background using Blender. I actually used a static background from my previous project, changed its shaders, and animated it to achieve this Background.",
+    date: "25th December 2024",
+    imgs: [
+        "/Blogs/Images/clash_of_clans_video/back0.jpg",
+        "/Blogs/Images/clash_of_clans_video/back1.jpg",
+        "/Blogs/Images/clash_of_clans_video/back2.jpg"
+    ],
+    tags: "Blender, Video, YouTube, VideoEditing, BackgroundDesign, Animated, DaVinciResolve",
+    btns: [
+        {
+            btn_string: "LinkedIn Video",
+            click_url: "https://www.linkedin.com/posts/realinspirer_blender-activity-7277439109600563200-kgEh",
+            external: true
+        }
+    ]
+});
+Blogs_and_posts_data.push({
     title: "This Website Is Finally Finished & LIVE!",
     subtitle: "Browse through all my work, and hard work. You can and will find all the things I have done and will be doing in the future!\n This is my - Realinspirer's project website.\n\n[Design made using Blender] \n\nWith ❤️ by Realinspirer. ",
     date: "20th December 2024",
