@@ -2,6 +2,30 @@ const Blogs_and_posts_data = new Array<Data_class_multiple_imgs_btn>();
 
 Blogs_and_posts_data.push(
     {
+        title:"Short Low-Poly Animation Made Using Blender! (Clash of Clans Experiences Video)",
+        subtitle:"I created this demonstration animation in Blender, that is gonna be used for editing in DaVinci Resolve for an upcoming video/vlog of mine.\n\n I utilized various shading techniques in Blender to achieve the paper effect, and all other surface shaders!\n\n Watch the short animation video on my LinkedIn!",
+
+        date: "30th December 2024",
+        imgs:[
+            "/Blogs/Images/clash_of_clans_video/post1/0.jpg",
+            "/Blogs/Images/clash_of_clans_video/post1/1.jpg",
+            "/Blogs/Images/clash_of_clans_video/post1/2.jpg",
+            "/Blogs/Images/clash_of_clans_video/post1/3.jpg",
+            "/Blogs/Images/clash_of_clans_video/post1/4.jpg"
+        ],
+        tags:"Blender, Video, YouTube, VideoEditing, BackgroundDesign, DaVinciResolve, LowPoly, Animation, Shading",
+        btns:[
+            {
+                btn_string: "LinkedIn Video",
+                click_url:"https://www.linkedin.com/posts/realinspirer_blender-resolve-activity-7279254766193364992-WrCQ",
+                external:true
+            }
+        ]
+    }
+);
+
+Blogs_and_posts_data.push(
+    {
         title:"Background Design for Upcoming Video (Clash of Clans Experiences)",
         subtitle:"I designed another slow-moving animated background using Blender. I actually used a static background from my previous project, changed its shaders, and animated it to achieve this Background.",
         date: "25th December 2024",
@@ -10,7 +34,7 @@ Blogs_and_posts_data.push(
             "/Blogs/Images/clash_of_clans_video/back1.jpg",
             "/Blogs/Images/clash_of_clans_video/back2.jpg"
         ],
-        tags:"Blender, Video, YouTube, VideoEditing, BackgroundDesign, Animated, DaVinciResolve",
+        tags:"Blender, Video, YouTube, VideoEditing, BackgroundDesign, Animation, DaVinciResolve",
         btns:[
             {
                 btn_string: "LinkedIn Video",
