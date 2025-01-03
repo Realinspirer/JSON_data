@@ -2,6 +2,29 @@ const Blogs_and_posts_data = new Array<Data_class_multiple_imgs_btn>();
 
 Blogs_and_posts_data.push(
     {
+        title:"3D Mobile Chatting Animation made using hashtag (Clash of Clans Experiences Video)",
+        subtitle:"I made this animation for demonstration purposes for a video that I am editing using DaVinci Resolve and Blender. This animation is altered a bit for LinkedIn purposes, and the original has way more effects, and sfx.",
+
+        date: "3rd January 2025",
+        imgs:[
+            "/Blogs/Images/clash_of_clans_video/post2/0.jpg",
+            "/Blogs/Images/clash_of_clans_video/post2/1.jpg",
+            "/Blogs/Images/clash_of_clans_video/post2/2.jpg",
+            "/Blogs/Images/clash_of_clans_video/post2/3.jpg"
+        ],
+        tags:"Blender, 3D, Video, YouTube, VideoEditing, DaVinciResolve, LowPoly, Animation",
+        btns:[
+            {
+                btn_string: "LinkedIn Video",
+                click_url:"https://www.linkedin.com/posts/realinspirer_blender-resolve-activity-7280946975024271361-ghkB",
+                external:true
+            }
+        ]
+    }
+);
+
+Blogs_and_posts_data.push(
+    {
         title:"Short Low-Poly Animation Made Using Blender! (Clash of Clans Experiences Video)",
         subtitle:"I created this demonstration animation in Blender, that is gonna be used for editing in DaVinci Resolve for an upcoming video/vlog of mine.\n\n I utilized various shading techniques in Blender to achieve the paper effect, and all other surface shaders!\n\n Watch the short animation video on my LinkedIn!",
 
@@ -13,7 +36,7 @@ Blogs_and_posts_data.push(
             "/Blogs/Images/clash_of_clans_video/post1/3.jpg",
             "/Blogs/Images/clash_of_clans_video/post1/4.jpg"
         ],
-        tags:"Blender, Video, YouTube, VideoEditing, BackgroundDesign, DaVinciResolve, LowPoly, Animation, Shading",
+        tags:"Blender, 3D, Video, YouTube, VideoEditing, BackgroundDesign, DaVinciResolve, LowPoly, Animation, Shading",
         btns:[
             {
                 btn_string: "LinkedIn Video",
