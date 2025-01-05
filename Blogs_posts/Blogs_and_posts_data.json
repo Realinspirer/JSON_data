@@ -1,5 +1,17 @@
 [
     {
+        "title":"Making Animated Fire Overlay in DaVinci Resolve",
+        "subtitle":"I was making this effect for my upcoming video, and noticed how I can just make an animated anime-type fire effect using just 2 Fusion nodes!\n\n DaVinci Resolve is an extremely powerful tool, you just need to know the make use of the right nodes at the right time!",
+
+        "date": "6th January 2025",
+        "imgs":[
+            "/Blogs/Images/clash_of_clans_video/post3/0.jpg",
+            "/Blogs/Images/clash_of_clans_video/post3/1.png",
+            "/Blogs/Images/clash_of_clans_video/post3/2.jpg"
+        ],
+        "tags":"Video, YouTube, VideoEditing, DaVinciResolve, Animation, VFX, VisualEffects, Graphics"
+    },
+    {
         "title":"3D Mobile Chatting Animation made using hashtag (Clash of Clans Experiences Video)",
         "subtitle":"I made this animation for demonstration purposes for a video that I am editing using DaVinci Resolve and Blender. This animation is altered a bit for LinkedIn purposes, and the original has way more effects, and sfx.",
 
