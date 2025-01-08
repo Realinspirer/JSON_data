@@ -1,5 +1,33 @@
 [
     {
+        "title":"I Crashed Out in Clash of Clans Global Chat",
+        "subtitle":"This is my new video on YouTube where I talked about a funny experience I had during my days of playing Clash of Clans. \n\n I made this video using DaVinci Resolve and Blender. A ton of VFX and SFX are used in this video. I also animated various things in 3D using Blender and/or Resolve itself. This video is carefully edited over the span of weeks. And I am still learning and working on editing as I progress!\n\nYou can look at some screenshots from the video here, and also watch the video on YouTube (by click the \"Watch Video\" button).\n\n PS: The thumbnail is also designed in Resolve itself!",
+
+        "date": "8th January 2025",
+        "imgs":[
+            "/Blogs/Images/clash_of_clans_video/thumbnail.jpg",
+            "/Blogs/Images/clash_of_clans_video/post4/9.jpg",
+            "/Blogs/Images/clash_of_clans_video/post4/8.jpg",
+            "/Blogs/Images/clash_of_clans_video/post4/0.jpg",
+            "/Blogs/Images/clash_of_clans_video/post4/1.jpg",
+            "/Blogs/Images/clash_of_clans_video/post4/2.jpg",
+            "/Blogs/Images/clash_of_clans_video/post4/3.jpg",
+            "/Blogs/Images/clash_of_clans_video/post4/4.jpg",
+            "/Blogs/Images/clash_of_clans_video/post4/5.jpg",
+            "/Blogs/Images/clash_of_clans_video/post4/6.jpg",
+            "/Blogs/Images/clash_of_clans_video/post4/7.jpg",
+            "/Blogs/Images/clash_of_clans_video/post4/10.jpg"
+        ],
+        "tags":"Video, YouTube, VideoEditing, DaVinciResolve, Graphics, Talking, Experience",
+        "btns":[
+            {
+                "btn_string":"Watch Video",
+                "external":true,
+                "click_url":"https://youtu.be/UQWMEdw75mI"
+            }
+        ]
+    },    
+    {
         "title":"Making Animated Fire Overlay in DaVinci Resolve",
         "subtitle":"I was making this effect for my upcoming video, and noticed how I can just make an animated anime-type fire effect using just 2 Fusion nodes!\n\n DaVinci Resolve is an extremely powerful tool, you just need to know the make use of the right nodes at the right time!",
 
