@@ -24,6 +24,11 @@
                 "btn_string":"Watch Video",
                 "external":true,
                 "click_url":"https://youtu.be/UQWMEdw75mI"
+            },
+            {
+                "btn_string":"Watch Shorts Video",
+                "external":true,
+                "click_url":"https://youtube.com/shorts/wHn3B4BaBII"
             }
         ]
     },    
