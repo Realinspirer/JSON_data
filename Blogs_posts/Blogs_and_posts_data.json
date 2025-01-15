@@ -1,5 +1,20 @@
 [
     {
+        "title":"Astronaut Humanoid Modelling for a Future Game",
+        "subtitle":"This is a futuristic style astronaut modelling that I have made for my upcoming game. I created an armature and rigged this model to use it for my game. I also created simple yet unique materials for the model to fit in my game.\n\n You can also look at some screenshots of the model in my game itself.",
+
+        "date": "16th January 2025",
+        "imgs":[
+            "/Blogs/Images/Guy_build/guy0.jpg",
+            "/Blogs/Images/Guy_build/guy3.jpg",
+            "/Blogs/Images/Guy_build/guy4.jpg",
+            "/Blogs/Images/Guy_build/guy1.jpg",
+            "/Blogs/Images/Guy_build/guy5.jpg",
+            "/Blogs/Images/Guy_build/guy2.jpg"
+        ],
+        "tags":"GameDevelopment, Games, 3D, GameDev, Modelling, Rigging, Animating, Blender, Unity"
+    },
+    {
         "title":"I Crashed Out in Clash of Clans Global Chat",
         "subtitle":"This is my new video on YouTube where I talked about a funny experience I had during my days of playing Clash of Clans. \n\n I made this video using DaVinci Resolve and Blender. A ton of VFX and SFX are used in this video. I also animated various things in 3D using Blender and/or Resolve itself. This video is carefully edited over the span of weeks. And I am still learning and working on editing as I progress!\n\nYou can look at some screenshots from the video here, and also watch the video on YouTube (by click the \"Watch Video\" button).\n\n PS: The thumbnail is also designed in Resolve itself!",
 
