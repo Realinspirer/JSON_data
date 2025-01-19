@@ -1,5 +1,12 @@
 [
     {
+        "img_path":"/Projects/Images/Designs/pvc_sample.jpg",
+        "custom_style":"--fit:contain; --background:#7a5dcb",
+        "date":"20th January 2024",
+        "title":"Advertisement Design for PVC Card Printing",
+        "desc":"I created this modern, minimalistic vector advertisement design for PVC card printing business. This design uses modern themed colors, and is lighter on the eyes. This design properly presents all the required points to the viewer while still being super clean, simple and professional!,"
+    },
+    {
         "img_path":"/Projects/Images/Designs/0.png",
         "custom_style":"--fit:contain; --background:linear-gradient(66deg, #d7d4c8ff, #eae8e1ff)",
         "date":"8th August 2024",
