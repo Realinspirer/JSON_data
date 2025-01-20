@@ -1,5 +1,15 @@
 [
     {
+        "title":"Logo Design for my upcoming game 'Block Legends'",
+        "subtitle":"This is another upcoming game I am working on. At the time of writing this post, I have just started it. It will be a casual puzzle themed game. I made this logo to be used for the game using some references online. This logo is made from scratch using Inkscape!",
+
+        "date": "21st January 2025",
+        "imgs":[
+            "/Games/BlockLegends/Images/Logo0.jpg"
+        ],
+        "tags":"GameDevelopment, Games, GameDev, Unity, Inkscape, VectorArt, Vector, GameAssets"
+    },
+    {
         "title":"Astronaut Humanoid Modelling for a Future Game",
         "subtitle":"This is a futuristic style astronaut modelling that I have made for my upcoming game. I created an armature and rigged this model to use it for my game. I also created simple yet unique materials for the model to fit in my game.\n\n You can also look at some screenshots of the model in my game itself.",
 
