@@ -1,5 +1,49 @@
 [
     {
+        "title":"Nvidia 5000 Series Are MISLEADING?",
+        "subtitle":"I recently released a video where I talked about the new Nvidia 5000 series GPUs.\n\n I edited the video in DaVinci Resolve with some parts even made using Blender. I also utilized 3D features of DaVinci Resolve Fusion to create amazing feel and certain aura for my video. The video utilizes many visual and audio effects to create it more and more interesting and attractive.",
+
+        "date": "26th January 2025",
+        "imgs":[
+            "/Blogs/Images/rtx_video/5.jpg",
+            "/Blogs/Images/rtx_video/0.jpg",
+            "/Blogs/Images/rtx_video/1.jpg",
+            "/Blogs/Images/rtx_video/2.jpg",
+            "/Blogs/Images/rtx_video/3.jpg",
+            "/Blogs/Images/rtx_video/4.jpg",
+            "/Blogs/Images/rtx_video/6.jpg",
+            "/Blogs/Images/rtx_video/7.jpg",
+            "/Blogs/Images/rtx_video/8.jpg",
+            "/Blogs/Images/rtx_video/9.jpg",
+            "/Blogs/Images/rtx_video/10.jpg"
+        ],
+        "tags":"VideoEditing, DaVinciResolve, Video, VFX, SFX, YouTube",
+        "btns":[
+            {
+                "btn_string": "YouTube Video",
+                "external":true,
+                "click_url":"https://youtu.be/eaB0y7S_qdo"
+            }
+        ]
+    },
+    {
+        "title":"Thumbnail Design Using Blender [RTX 50 Series Video]",
+        "subtitle":"This is a thumbnail design I made using Blender for a video of mine regarding Nvidia's 5000 series GPU. This project included shading, lighting, compositing and more!",
+
+        "date": "26th January 2025",
+        "imgs":[
+            "/Blogs/Images/rtx_video/thumbnail.jpg"
+        ],
+        "tags":"Blender, 3D, ThumbnailDesign, VideoEditing, Video, YouTube, VFX, Shading",
+        "btns":[
+            {
+                "btn_string": "YouTube Video",
+                "external":true,
+                "click_url":"https://youtu.be/eaB0y7S_qdo"
+            }
+        ]
+    },
+    {
         "title":"Logo Design for my upcoming game 'Block Legends'",
         "subtitle":"This is another upcoming game I am working on. At the time of writing this post, I have just started it. It will be a casual puzzle themed game. I made this logo to be used for the game using some references online. This logo is made from scratch using Inkscape!",
 

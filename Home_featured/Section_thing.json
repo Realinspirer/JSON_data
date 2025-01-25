@@ -1,17 +1,16 @@
 [
     {
+        "title": "TRUTH about Nvidia 5000 Series",
+        "description": "With some amazing 🔥 video editing!",
+        "def_img": "/Blogs/Images/rtx_video/thumbnail.jpg",
+        "click_url": "/Blogs/?title=Nvidia+5000+Series+Are+MISLEADING%3F",
+        "window_argument": "_self"
+    },
+    {
         "title": "My Domino's Experience",
         "description": "Lost my aura at a Domino's... 😣",
         "def_img": "/Blogs/Images/dominos_video/thumbnail.jpg",
         "click_url": "/Blogs/?title=Losing+my+aura+at+a+Domino%27s",
-        "window_argument": "_self"
-    },
-    {
-        "title": "4th Dimension & Time",
-        "description": "Talking about time and 4th dimension!",
-        "def_img": "/Blogs/Images/fourth_dimension_video/thumbnail.jpg",
-        "other_imgs": [{"img_url": "/Blogs/Images/fourth_dimension_video/thumbnail_vert.png", "width":950}],
-        "click_url": "/Blogs/?title=Dwelling+into+4th+Dimension+and+Time",
         "window_argument": "_self"
     },
     {
