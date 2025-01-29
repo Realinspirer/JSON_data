@@ -1,5 +1,25 @@
 [
     {
+        "title":"Spacecraft Gate Design for My Upcoming Game",
+        "subtitle":"This is a render of a gate I made in Blender. You can find the video taken in Unity on the attached LinkedIn Video. I created this 3D model using help from some references online, while keeping the poly count low for the game.",
+
+        "date": "29th January 2025",
+        "imgs":[
+            "/Blogs/Images/gate_ch/gate.jpg",
+            "/Blogs/Images/gate_ch/0.jpg",
+            "/Blogs/Images/gate_ch/1.jpg",
+            "/Blogs/Images/gate_ch/2.jpg"
+        ],
+        "tags":"GameDev, GameDevelopment, 3D, Modelling, Blender, Unity, CosmicHavoc, Shading",
+        "btns":[
+            {
+                "btn_string": "LinkedIn Video",
+                "external":true,
+                "click_url":"https://www.linkedin.com/posts/realinspirer_blender-activity-7290428921710366721-h7bV"
+            }
+        ]
+    },
+    {
         "title":"Nvidia 5000 Series Are MISLEADING?",
         "subtitle":"I recently released a video where I talked about the new Nvidia 5000 series GPUs.\n\n I edited the video in DaVinci Resolve with some parts even made using Blender. I also utilized 3D features of DaVinci Resolve Fusion to create amazing feel and certain aura for my video. The video utilizes many visual and audio effects to create it more and more interesting and attractive.",
 
@@ -56,7 +76,7 @@
         "imgs":[
             "/Games/BlockLegends/Images/Logo0.jpg"
         ],
-        "tags":"GameDevelopment, Games, GameDev, Unity, Inkscape, VectorArt, Vector, GameAssets"
+        "tags":"GameDevelopment, Games, GameDev, Unity, Inkscape, VectorArt, Vector, GameAssets, BlockLegends"
     },
     {
         "title":"Astronaut Humanoid Modelling for a Future Game",
@@ -71,7 +91,7 @@
             "/Blogs/Images/Guy_build/guy5.jpg",
             "/Blogs/Images/Guy_build/guy2.jpg"
         ],
-        "tags":"GameDevelopment, Games, 3D, GameDev, Modelling, Rigging, Animating, Blender, Unity"
+        "tags":"GameDevelopment, Games, 3D, GameDev, Modelling, Rigging, Animating, Blender, Unity, CosmicHavoc"
     },
     {
         "title":"I Crashed Out in Clash of Clans Global Chat",
