@@ -1,5 +1,16 @@
 [
     {
+        "title":"Poster/Print Designs for Different Occasions",
+        "subtitle":"I created this print design using Inkscape to be used purposes such as cups, poster, frames, and so on.",
+
+        "date": "7th February 2025",
+        "imgs":[
+            "/Projects/Images/Designs/c_sample1.jpg",
+            "/Projects/Images/Designs/c_sample0.jpg"
+        ],
+        "tags":"VectorDesign, GraphicsDesign, VectorGraphics, Inkscape"
+    },
+    {
         "title":"Spacecraft Gate Design for My Upcoming Game",
         "subtitle":"This is a render of a gate I made in Blender. You can find the video taken in Unity on the attached LinkedIn Video. I created this 3D model using help from some references online, while keeping the poly count low for the game.",
 

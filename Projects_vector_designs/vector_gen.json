@@ -1,10 +1,24 @@
 [
     {
+        "img_path":"/Projects/Images/Designs/c_sample1.jpg",
+        "custom_style":"--fit:contain; --background:#cbb0e3",
+        "date":"7th February 2025",
+        "title":"Poster/Print Design for Different Occasions",
+        "desc":"I created this print design using Inkscape to be used purposes such as cups, poster, frames, and so on."
+    },
+    {
+        "img_path":"/Projects/Images/Designs/c_sample0.jpg",
+        "custom_style":"--fit:contain; --background:#fe3057",
+        "date":"7th February 2025",
+        "title":"Poster/Print Design for Different Occasions",
+        "desc":"I created this print design using Inkscape to be used purposes such as cups, poster, frames, and so on."
+    },
+    {
         "img_path":"/Projects/Images/Designs/pvc_sample.jpg",
         "custom_style":"--fit:contain; --background:#7a5dcb",
-        "date":"20th January 2024",
+        "date":"20th January 2025",
         "title":"Advertisement Design for PVC Card Printing",
-        "desc":"I created this modern, minimalistic vector advertisement design for PVC card printing business. This design uses modern themed colors, and is lighter on the eyes. This design properly presents all the required points to the viewer while still being super clean, simple and professional!,"
+        "desc":"I created this modern, minimalistic vector advertisement design for PVC card printing business. This design uses modern themed colors, and is lighter on the eyes. This design properly presents all the required points to the viewer while still being super clean, simple and professional!"
     },
     {
         "img_path":"/Projects/Images/Designs/0.png",
