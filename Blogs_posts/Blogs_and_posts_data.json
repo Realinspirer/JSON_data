@@ -1,5 +1,24 @@
 [
     {
+        "title":"Cup 3D Model and Mockup 3D Design",
+        "subtitle":"I made this 3D model of a cup to be used for mockups like this video. I also UV unwrapped the model in a way to simplify changing the image on the model for future changes.",
+
+        "date": "18th February 2025",
+        "imgs":[
+            "/Blogs/Images/cup/0.jpg",
+            "/Blogs/Images/cup/1.jpg",
+            "/Blogs/Images/cup/2.jpg"
+        ],
+        "tags":"3D, Modelling, Mockup, ProductVisualization, Blender",
+        "btns":[
+            {
+                "btn_string":"LinkedIn Video",
+                "external":true,
+                "click_url":"https://www.linkedin.com/posts/realinspirer_product-mockup-3d-design-support-my-journey-activity-7297325062976598016-ui0H"
+            }
+        ]   
+    },
+    {
         "title":"Poster/Print Designs for Different Occasions",
         "subtitle":"I created this print design using Inkscape to be used purposes such as cups, poster, frames, and so on.",
 
