@@ -1,5 +1,22 @@
 [
     {
+        "title":"A* (A-star) Algorithm Showcase",
+        "subtitle":"View the algorithm showcase video using the \"LinedIn Video\" button.\n\n I created this grid-based system and researched and applied a pathfinding system called A* algorithm in Unity and using C# programming.",
+
+        "date": "20th February 2025",
+        "imgs":[
+            "/Blogs/Images/path_astar/bitmap.jpg"
+        ],
+        "tags":"Unity, Programming, C#, GameDevelopment, GameDev, Development, Algorithm",
+        "btns":[
+            {
+                "btn_string":"LinkedIn Video",
+                "external":true,
+                "click_url":"https://www.linkedin.com/posts/realinspirer_unity-programming-activity-7298378797899214851-d7dD"
+            }
+        ]   
+    },
+    {
         "title":"Cup 3D Model and Mockup 3D Design",
         "subtitle":"I made this 3D model of a cup to be used for mockups like this video. I also UV unwrapped the model in a way to simplify changing the image on the model for future changes.",
 
