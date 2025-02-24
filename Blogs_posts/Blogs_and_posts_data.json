@@ -1,5 +1,33 @@
 [
     {
+        "title":"Why AAA Games Are Dying?",
+        "subtitle":"I uploaded another video where I talk about current PC situations, and gaming in general, and also discuss why AAA game companies are struggling.\n\n I edited the video using DaVinci Resolve, and also Blender (for certain parts). I used many visual effects, sounds effect and different video editing practices to create this video.",
+
+        "date": "24th February 2025",
+        "imgs":[
+            "/Blogs/Images/pc_situation/THUMBNAIL.jpg",
+            "/Blogs/Images/pc_situation/0.jpg",
+            "/Blogs/Images/pc_situation/1.jpg",
+            "/Blogs/Images/pc_situation/2.jpg",
+            "/Blogs/Images/pc_situation/3.jpg",
+            "/Blogs/Images/pc_situation/4.jpg",
+            "/Blogs/Images/pc_situation/5.jpg",
+            "/Blogs/Images/pc_situation/6.jpg",
+            "/Blogs/Images/pc_situation/7.jpg",
+            "/Blogs/Images/pc_situation/8.jpg",
+            "/Blogs/Images/pc_situation/9.jpg",
+            "/Blogs/Images/pc_situation/10.jpg"
+        ],
+        "tags":"VideoEditing, DaVinciResolve, Resolve, Video, YouTube, Talking, VFX",
+        "btns":[
+            {
+                "btn_string":"YouTube Video",
+                "external":true,
+                "click_url":"https://youtu.be/bTA_artNVfE"
+            }
+        ]   
+    },
+    {
         "title":"A* (A-star) Algorithm Showcase",
         "subtitle":"View the algorithm showcase video using the \"LinedIn Video\" button.\n\n I created this grid-based system and researched and applied a pathfinding system called A* algorithm in Unity and using C# programming.",
 
