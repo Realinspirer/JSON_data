@@ -3,6 +3,12 @@
         "title": "AAA Games Are in Shambles!",
         "description": "Watch video With some amazing 🔥 video editing!",
         "def_img": "/Blogs/Images/pc_situation/THUMBNAIL.jpg",
+        "other_imgs":[
+            {
+                "width":650,
+                "img_url":"/Blogs/Images/pc_situation/THUMBNAIL_verticle.jpg"
+            }
+        ],
         "click_url": "/Blogs/?title=Why+AAA+Games+Are+Dying%3F",
         "window_argument": "_self"
     },
