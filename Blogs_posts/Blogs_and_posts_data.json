@@ -14,6 +14,19 @@
         "tags":"Unity, GameDev, GameDevelopment, UI, UX, Designs" 
     },
     {
+        "title":"Space Procedural Shader using Blender",
+        "subtitle":"I made this custom emissive shader animation effect to be used for adding subtle details to certain objects. Can look good on a sphere... Haha, definitely.",
+
+        "date": "4th March 2025",
+        "imgs":[
+            "/Blogs/Images/shader_stuffs/space0.jpg",
+            "/Blogs/Images/shader_stuffs/space1.jpg",
+            "/Blogs/Images/shader_stuffs/space2.jpg",
+            "/Blogs/Images/shader_stuffs/space3.jpg"
+        ],
+        "tags":"Shader, Shading, Unity, Blender, ShaderGraph, GameDev, GameDevelopment, CosmicHavoc" 
+    },
+    {
         "title":"Custom Fullscreen Shader Effects",
         "subtitle":"I made this custom emissive shader animation effect to be used for adding subtle details to certain objects. Can look good on a sphere... Haha, definitely.",
 
