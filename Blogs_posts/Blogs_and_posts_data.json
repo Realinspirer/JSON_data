@@ -1,5 +1,90 @@
 [
     {
+        "title":"UI designs for Games",
+        "subtitle":"These are some of the UI/UX designs that I worked on. I make sure that the UI can be suitable for required screen sizes, and keep them organized and clean. Making them fun and intuitive is another great point that I keep in mind.",
+
+        "date": "4th March 2025",
+        "imgs":[
+            "/Blogs/Images/UI_designs/ui4.png",
+            "/Blogs/Images/UI_designs/ui0.png",
+            "/Blogs/Images/UI_designs/ui1.png",
+            "/Blogs/Images/UI_designs/ui2.png",
+            "/Blogs/Images/UI_designs/ui3.png"
+        ],
+        "tags":"Unity, GameDev, GameDevelopment, UI, UX, Designs" 
+    },
+    {
+        "title":"Custom Fullscreen Shader Effects",
+        "subtitle":"I made this custom emissive shader animation effect to be used for adding subtle details to certain objects. Can look good on a sphere... Haha, definitely.",
+
+        "date": "4th March 2025",
+        "imgs":[
+            "/Blogs/Images/shader_stuffs/5.jpg",
+            "/Blogs/Images/shader_stuffs/3.jpg",
+            "/Blogs/Images/shader_stuffs/4.jpg",
+            "/Blogs/Images/shader_stuffs/6.jpg"
+        ],
+        "tags":"Shader, Shading, Unity, ShaderGraph, GameDev, GameDevelopment, CosmicHavoc",
+        "btns":[
+            {
+                "btn_string":"LinkedIn Video",
+                "external":true,
+                "click_url":"https://www.linkedin.com/posts/realinspirer_unity-activity-7302628235111022592-09q5"
+            }
+        ]   
+    },
+    {
+        "title":"Sprite Sweep Shine Shader",
+        "subtitle":"I made this custom emissive shader animation effect to be used for adding subtle details to certain objects. Can look good on a sphere... Haha, definitely.",
+
+        "date": "4th March 2025",
+        "imgs":[
+            "/Blogs/Images/shader_stuffs/2.jpg"
+        ],
+        "tags":"Shader, Shading, Unity, ShaderGraph, GameDev, GameDevelopment, CosmicHavoc",
+        "btns":[
+            {
+                "btn_string":"LinkedIn Video",
+                "external":true,
+                "click_url":"https://www.linkedin.com/posts/realinspirer_unity-activity-7302628805741846529-Ip5x"
+            }
+        ]   
+    },
+    {
+        "title":"Sprite Sweep Shine Shader",
+        "subtitle":"The shine effect - you see it everywhere. This effect just elevates every game. I created a custom shader for that, and it's also completely procedural.",
+
+        "date": "4th March 2025",
+        "imgs":[
+            "/Blogs/Images/shader_stuffs/1.jpg"
+        ],
+        "tags":"Shader, Shading, Unity, ShaderGraph, GameDev, GameDevelopment, BlockLegends",
+        "btns":[
+            {
+                "btn_string":"LinkedIn Video",
+                "external":true,
+                "click_url":"https://www.linkedin.com/posts/realinspirer_unity-activity-7302630155166883840-8ypa"
+            }
+        ]   
+    },
+    {
+        "title":"Futuristic UI Custom Shader",
+        "subtitle":"I made this custom futuristic UI shader for an upcoming game of mine. The shader is completely procedural and editable.",
+
+        "date": "4th March 2025",
+        "imgs":[
+            "/Blogs/Images/shader_stuffs/0.jpg"
+        ],
+        "tags":"Shader, Unity, Shading, ShaderGraph, GameDev, GameDevelopment, CosmicHavoc",
+        "btns":[
+            {
+                "btn_string":"LinkedIn Video",
+                "external":true,
+                "click_url":"https://www.linkedin.com/posts/realinspirer_unity-activity-7302629897481469953-c-ku"
+            }
+        ]   
+    },
+    {
         "title":"Why AAA Games Are Dying?",
         "subtitle":"I uploaded another video where I talk about current PC situations, and gaming in general, and also discuss why AAA game companies are struggling.\n\n I edited the video using DaVinci Resolve, and also Blender (for certain parts). I used many visual effects, sounds effect and different video editing practices to create this video.",
 
