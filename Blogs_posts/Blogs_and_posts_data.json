@@ -1,5 +1,39 @@
 [
     {
+        "title":"Block LEGENDS! is out on CrazyGames!",
+        "subtitle":"My latest game is LIVE on CrazyGames! Play now, and have fun!",
+
+        "date": "21st March 2025",
+        "imgs":[
+            "/Games/BlockLegends/Images/0.jpg",
+            "/Games/BlockLegends/Images/1.jpg"
+        ],
+        "tags":"GameDev, GameDevelopment, BlockLegends, LIVENOW",
+        "btns":[
+            {
+                "btn_string":"Play on CrazyGames",
+                "external":true,
+                "click_url":"https://www.crazygames.com/game/block-legends"
+            },
+            {
+                "btn_string":"Game Page",
+                "click_url":"/Games/BlockLegends/"
+            }
+        ] 
+    },
+    {
+        "title":"Spacecraft Build for Upcoming Game (work-in progress)",
+        "subtitle":"I am creating this spacecraft 3D model for an upcoming game of mine. I have been looking out for topology in this build, and trying to give the spacecraft details while maintaining topology.",
+
+        "date": "21st March 2025",
+        "imgs":[
+            "/Blogs/Images/Cosmic_havoc/build_spacecraft0.jpg",
+            "/Blogs/Images/Cosmic_havoc/build_spacecraft1.jpg",
+            "/Blogs/Images/Cosmic_havoc/build_spacecraft2.jpg"
+        ],
+        "tags":"Modelling, 3D, Topology, CosmicHavoc" 
+    },
+    {
         "title":"Logo Design for an Upcoming Game \"Miner's Fury\"",
         "subtitle":"I am creating another game and this is the logo design I came up for that game. I used modern and appealing color and themes.\n\n I designed this logo using the vector graphics software Inkscape.",
 
