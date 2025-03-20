@@ -1,5 +1,14 @@
 [
     {
+        "title":"Block LEGENDS!",
+        "subtitle":"Games • Puzzle",
+        "description":"Match & Clear!",
+        "image_url":"/Games/BlockLegends/Images/1.jpg",
+        "image_cover":"/Games/BlockLegends/Images/0.jpg",
+        "button_text":"Play now",
+        "click_url":"/Games/BlockLegends/"
+    },
+    {
         "title":"Banana Bounce!",
         "subtitle":"Games • Obstacle",
         "description":"Bounce to the sky!",

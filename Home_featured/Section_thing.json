@@ -1,5 +1,18 @@
 [
     {
+        "title": "Block LEGENDS!",
+        "description": "Fun and casual block matching game. 🤩 PLAY NOW!",
+        "def_img": "/Games/BlockLegends/Images/0.jpg",
+        "other_imgs":[
+            {
+                "width":650,
+                "img_url":"/Games/BlockLegends/Images/logo1.jpg"
+            }
+        ],
+        "click_url": "/Games/BlockLegends/",
+        "window_argument": "_self"
+    },
+    {
         "title": "AAA Games Are in Shambles!",
         "description": "Watch video With some amazing 🔥 video editing!",
         "def_img": "/Blogs/Images/pc_situation/THUMBNAIL.jpg",
@@ -38,13 +51,6 @@
         "description": "Vector based artworks!",
         "def_img": "Images/Featured_section/logos_featured.png",
         "click_url": "/Projects/#Designs",
-        "window_argument": "_self"
-    },
-    {
-        "title": "Heck's Kitchen!",
-        "description": "A game that tells a story... a frightening story",
-        "def_img": "Images/Featured_section/Heck's_kitchen.png",
-        "click_url": "/Games/Heck's_Kitchen!/",
         "window_argument": "_self"
     }
 ]

@@ -1,5 +1,11 @@
 [
     {
+        "img_path":"/Games/BlockLegends/Images/0.jpg",
+        "custom_style":"--fit:contain; --background:#ffa157;",
+        "click_url":"/Games/BlockLegends/",
+        "window_argument":"_self"
+    },
+    {
         "img_path":"/Games/Banana_Bounce!/Images/Logo_transparent.png",
         "custom_style":"--fit:contain; --background:url(/Games/Banana_Bounce!/Images/Background.png);",
         "click_url":"/Games/Banana_Bounce!/",
