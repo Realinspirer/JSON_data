@@ -1,5 +1,27 @@
 [
     {
+        "title":"Block LEGENDS! is out on ArmorGames!",
+        "subtitle":"ArmorGames is an official publisher for the game! Play now, and have fun!",
+
+        "date": "15th April 2025",
+        "imgs":[
+            "/Games/BlockLegends/Images/0.jpg",
+            "/Games/BlockLegends/Images/1.jpg"
+        ],
+        "tags":"GameDev, GameDevelopment, BlockLegends, LIVENOW",
+        "btns":[
+            {
+                "btn_string":"Play on ArmorGames",
+                "external":true,
+                "click_url":"https://armorgames.com/block-legends-game/19561"
+            },
+            {
+                "btn_string":"Game Page",
+                "click_url":"/Games/BlockLegends/"
+            }
+        ] 
+    },
+    {
         "title":"Spacecraft Build for Upcoming Game (work-in progress)",
         "subtitle":"I am creating this spacecraft 3D model for an upcoming game of mine. I have been looking out for topology in this build, and trying to give the spacecraft details while maintaining topology.",
 
