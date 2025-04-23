@@ -1,5 +1,38 @@
 [
     {
+        "title":"MY BEST EDITED VIDEO IS LIVE!",
+        "subtitle":"I made a video about my experience on job search.\n\n The video is fully edited by me in DaVinci Resolve. The video is packed with effects 🔥, SFXs, transitions, quality clips, heavy video editing, and more! This is my most quality packed video ever. Took me more than a month to create. Have a look and let me know how you feel about it!\n\n Made with ❤️ by Realinspirer",
+
+        "date": "24th April 2025",
+        "imgs":[
+            "/Blogs/Images/job_video/thumbnail.jpg",
+            "/Blogs/Images/job_video/0.jpg",
+            "/Blogs/Images/job_video/1.jpg",
+            "/Blogs/Images/job_video/2.jpg",
+            "/Blogs/Images/job_video/3.jpg",
+            "/Blogs/Images/job_video/4.jpg",
+            "/Blogs/Images/job_video/5.jpg",
+            "/Blogs/Images/job_video/6.jpg",
+            "/Blogs/Images/job_video/7.jpg",
+            "/Blogs/Images/job_video/8.jpg",
+            "/Blogs/Images/job_video/9.jpg",
+            "/Blogs/Images/job_video/10.jpg",
+            "/Blogs/Images/job_video/11.jpg",
+            "/Blogs/Images/job_video/12.jpg",
+            "/Blogs/Images/job_video/13.jpg",
+            "/Blogs/Images/job_video/14.jpg",
+            "/Blogs/Images/job_video/15.jpg"
+        ],
+        "tags":"Video, YouTube, VideoEditing, DaVinciResolve, Animation, VFX, VisualEffects, Graphics, SFX, Transitions",
+        "btns":[
+            {
+                "btn_string":"Watch Video",
+                "external":true,
+                "click_url":"https://youtu.be/h8TCPvRHeL4"
+            }
+        ] 
+    },
+    {
         "title":"Block LEGENDS! is out on ArmorGames!",
         "subtitle":"ArmorGames is an official publisher for the game! Play now, and have fun!",
 
