@@ -1,5 +1,16 @@
 [
     {
+        "title":"Cannon 3D Build using Blender",
+        "subtitle":"I created this cannon 3D model in blender for an upcoming 2D game of mine. I had to create a basic cartoony 2D design to be used in the game, but I ended up creating a realistic one too. I used different shader techniques to achieve the first one and then used some simple colors and high contrast for the 2D looking one, along with an orthographic camera.",
+
+        "date": "1st May 2025",
+        "imgs":[
+            "/Blogs/Images/miner's_fury/1.jpg",
+            "/Blogs/Images/miner's_fury/0.jpg"
+        ],
+        "tags":"3D, Blender, Realistic, Materials, Shading, Modelling, ShaderEditor"
+    },
+    {
         "title":"MY BEST EDITED VIDEO YET!",
         "subtitle":"I made a video about my experience on job search.\n\n The video is fully edited by me in DaVinci Resolve. The video is packed with effects 🔥, SFXs, transitions, quality clips, heavy video editing, and more! This is my most quality packed video ever. Took me more than a month to create. Have a look and let me know how you feel about it!\n\n Made with ❤️ by Realinspirer",
 
