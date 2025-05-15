@@ -1,5 +1,11 @@
 [
     {
+        "img_path":"/Games/MinersFury/Images/thumbnail.jpg",
+        "custom_style":"--fit:contain; --background:#ffa763;",
+        "click_url":"/Games/MinersFury/",
+        "window_argument":"_self"
+    },
+    {
         "img_path":"/Games/BlockLegends/Images/0.jpg",
         "custom_style":"--fit:contain; --background:#ffa157;",
         "click_url":"/Games/BlockLegends/",

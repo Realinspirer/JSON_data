@@ -5,8 +5,8 @@
 
         "date": "1st May 2025",
         "imgs":[
-            "/Blogs/Images/miner's_fury/1.jpg",
-            "/Blogs/Images/miner's_fury/0.jpg"
+            "/Games/MinersFury/Images/1.jpg",
+            "/Games/MinersFury/Images/0.jpg"
         ],
         "tags":"3D, Blender, Realistic, Materials, Shading, Modelling, ShaderEditor"
     },
@@ -110,7 +110,7 @@
 
         "date": "14th March 2025",
         "imgs":[
-            "/Blogs/Images/miner's_fury/logo_sample.jpeg"
+            "/Games/MinersFury/Images/logo.jpeg"
         ],
         "tags":"Unity, GameDev, GameDevelopment, Design, LogoDesign, VectorGraphics, Inkscape, Miner'sFury" 
     },

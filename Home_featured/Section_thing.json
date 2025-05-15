@@ -1,5 +1,12 @@
 [
     {
+        "title": "Miner's Fury!",
+        "description": "Addicting & Fun, PLAY NOW! 💥",
+        "def_img": "/Games/MinersFury/Images/thumbnail.jpg",
+        "click_url": "/Games/MinersFury/",
+        "window_argument": "_self"
+    },
+    {
         "title": "Block LEGENDS!",
         "description": "Fun and casual block matching game. 🤩 PLAY NOW!",
         "def_img": "/Games/BlockLegends/Images/0.jpg",
@@ -37,13 +44,6 @@
         "description": "Lost my aura at a Domino's... 😣",
         "def_img": "/Blogs/Images/dominos_video/thumbnail.jpg",
         "click_url": "/Blogs/?title=Losing+my+aura+at+a+Domino%27s",
-        "window_argument": "_self"
-    },
-    {
-        "title": "Banana Bounce!",
-        "description": "Avoid obstacles while you bounce^^!",
-        "def_img": "/Games/Banana_Bounce!/Images/Banana_bounce_landscape.png",
-        "click_url": "/Games/Banana_Bounce!/",
         "window_argument": "_self"
     },
     {

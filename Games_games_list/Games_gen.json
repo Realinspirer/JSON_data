@@ -1,11 +1,20 @@
 [
     {
+        "title":"Miner's Fury!",
+        "subtitle":"Games • Arcade",
+        "description":"Avoid & Destroy!",
+        "image_url":"/Games/MinersFury/Images/logo.jpeg",
+        "image_cover":"/Games/MinersFury/Images/thumbnail.jpg",
+        "button_text":"Learn More",
+        "click_url":"/Games/MinersFury/"
+    },
+    {
         "title":"Block LEGENDS!",
         "subtitle":"Games • Puzzle",
         "description":"Match & Clear!",
         "image_url":"/Games/BlockLegends/Images/1.jpg",
         "image_cover":"/Games/BlockLegends/Images/0.jpg",
-        "button_text":"Learn More",
+        "button_text":"Play now",
         "click_url":"/Games/BlockLegends/"
     },
     {
