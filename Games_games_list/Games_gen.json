@@ -28,24 +28,6 @@
 
     },
     {
-        "title":"HK Runner!",
-        "subtitle":"Games • Runner",
-        "description":"A 3D runner",
-        "image_url":"/Games/HK_runner/Images/run_sq.png",
-        "image_cover":"/Games/HK_runner/Images/cover.jpg",
-        "button_text":"Play now",
-        "click_url":"/Games/HK_runner/"
-    },
-    {
-        "title":"Heck's Kitchen!",
-        "subtitle":"Games • Story",
-        "description":"Let him COOK!",
-        "image_url":"/Games/Heck's_Kitchen!/Images/hk_sq.png",
-        "image_cover":"/Games/Heck's_Kitchen!/Images/hk_wide.png",
-        "button_text":"Play now",
-        "click_url":"/Games/Heck's_Kitchen!/"
-    },
-    {
         "title":"Package Delivery!",
         "subtitle":"Games • Side Scrolling",
         "description":"Collect and avoid",
@@ -89,5 +71,23 @@
         "image_cover":"/Games/Escape_it/Images/logo.jpg",
         "button_text":"Play now",
         "click_url":"/Games/Escape_it/"
-    }   
+    },
+    {
+        "title":"HK Runner!",
+        "subtitle":"Games • Runner",
+        "description":"A 3D runner",
+        "image_url":"/Games/HK_runner/Images/run_sq.png",
+        "image_cover":"/Games/HK_runner/Images/cover.jpg",
+        "button_text":"Play now",
+        "click_url":"/Games/HK_runner/"
+    },
+    {
+        "title":"Heck's Kitchen!",
+        "subtitle":"Games • Story",
+        "description":"Let him COOK!",
+        "image_url":"/Games/Heck's_Kitchen!/Images/hk_sq.png",
+        "image_cover":"/Games/Heck's_Kitchen!/Images/hk_wide.png",
+        "button_text":"Play now",
+        "click_url":"/Games/Heck's_Kitchen!/"
+    }
 ]
