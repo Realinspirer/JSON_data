@@ -1,5 +1,27 @@
 [
     {
+        "title":"Miner's Fury! is out on CrazyGames!",
+        "subtitle":"Play the game on CrazyGames, and I hope you'll enjoy!",
+
+        "date": "26th May 2025",
+        "imgs":[
+            "/Games/MinersFury/Images/thumbnail.jpg",
+            "/Games/MinersFury/Images/logo.jpeg"
+        ],
+        "tags":"GameDev, GameDevelopment, Miner'sFury, LIVENOW",
+        "btns":[
+            {
+                "btn_string":"Play on CrazyGames",
+                "external":true,
+                "click_url":"https://www.crazygames.com/game/miner-s-fury"
+            },
+            {
+                "btn_string":"Game Page",
+                "click_url":"/Games/MinersFury/"
+            }
+        ] 
+    },
+    {
         "title":"Cannon 3D Build using Blender",
         "subtitle":"I created this cannon 3D model in blender for an upcoming 2D game of mine. I had to create a basic cartoony 2D design to be used in the game, but I ended up creating a realistic one too. I used different shader techniques to achieve the first one and then used some simple colors and high contrast for the 2D looking one, along with an orthographic camera.",
 
