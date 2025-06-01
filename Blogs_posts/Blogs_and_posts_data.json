@@ -1,5 +1,19 @@
 [
     {
+        "title":"Home Kitchen 3D Model",
+        "subtitle":"I am creating 3D models of rooms in a house for an upcoming game of mine. I designed blueprints for all the models required, and now I am designing them in 3D one by one. This saves soo much time as opposed to just creating models on the fly. \n\n I am also keeping the topology clean for my models while also trying to keep the poly counts low. I also recreate every model with added details and high poly count to be used for the Normal maps.",
+        "date": "2nd June 2025",
+        "imgs":[
+            "/Games/AnomalyWatchNightFall/Images/0.jpg",
+            "/Games/AnomalyWatchNightFall/Images/Kitchen.png",
+            "/Games/AnomalyWatchNightFall/Images/1.jpg",
+            "/Games/AnomalyWatchNightFall/Images/2.jpg",
+            "/Games/AnomalyWatchNightFall/Images/3.jpg",
+            "/Games/AnomalyWatchNightFall/Images/4.jpg"
+        ],
+        "tags":"InteriorDesigning, GameDev, Modelling, 3D, AnomalyWatchNightFall"
+    },
+    {
         "title":"Miner's Fury! is out on CrazyGames!",
         "subtitle":"Play the game on CrazyGames, and I hope you'll enjoy!",
 
