@@ -1,5 +1,35 @@
 [
     {
+        "title":"BUGS & Unity!",
+        "subtitle":"I just dropped another video on my YouTube. This time its about Unity, particularly UI Builder that comes with the 'new' UI solution - UI Toolkit. I explained how the UI builder is riddled with bugs, and expressed my honest opinion and anger on the topic.\n\n This video is yet another show of my video editing skills. I carefully added VFX, SFX, transitions and many effects to elevate the viewing experience. This is one of my best edited video till date! 🔥",
+        "date": "10th June 2025",
+        "imgs":[
+            "/Blogs/Images/unity_video/thumbnail.jpg",
+            "/Blogs/Images/unity_video/thumbnail_verticle.jpg",
+            "/Blogs/Images/unity_video/0.jpg",
+            "/Blogs/Images/unity_video/1.jpg",
+            "/Blogs/Images/unity_video/2.jpg",
+            "/Blogs/Images/unity_video/3.jpg",
+            "/Blogs/Images/unity_video/4.jpg",
+            "/Blogs/Images/unity_video/5.jpg",
+            "/Blogs/Images/unity_video/6.jpg",
+            "/Blogs/Images/unity_video/7.jpg"
+        ],
+        "tags":"Video, YouTube, VideoEditing, DaVinciResolve, VFX, VisualEffects, SFX, Graphics, Unity",
+        "btns":[
+            {
+                "btn_string":"Watch Video",
+                "external":true,
+                "click_url":"https://youtu.be/SLjHHBQTs4M"
+            },
+            {
+                "btn_string":"Watch Shorts Video",
+                "external":true,
+                "click_url":"https://youtube.com/shorts/WEeLs6eUzgY"
+            }
+        ]
+    },
+    {
         "title":"Home Kitchen 3D Model",
         "subtitle":"I am creating 3D models of rooms in a house for an upcoming game of mine. I designed blueprints for all the models required, and now I am designing them in 3D one by one. This saves soo much time as opposed to just creating models on the fly. \n\n I am also keeping the topology clean for my models while also trying to keep the poly counts low. I also recreate every model with added details and high poly count to be used for the Normal maps.",
         "date": "2nd June 2025",

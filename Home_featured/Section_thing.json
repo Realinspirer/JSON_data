@@ -1,9 +1,17 @@
 [
+    
     {
         "title": "Miner's Fury!",
         "description": "Addicting & Fun, PLAY NOW! 💥",
         "def_img": "/Games/MinersFury/Images/thumbnail.jpg",
         "click_url": "/Games/MinersFury/",
+        "window_argument": "_self"
+    },
+    {
+        "title": "BUGS & Unity!",
+        "description": "Watch on YouTube with some amazing 🔥 video editing!",
+        "def_img": "/Blogs/Images/unity_video/thumbnail.jpg",
+        "click_url": "/Blogs/?title=BUGS+%26+Unity%21",
         "window_argument": "_self"
     },
     {
@@ -37,13 +45,6 @@
         "description": "With some amazing 🔥 video editing!",
         "def_img": "/Blogs/Images/rtx_video/thumbnail.jpg",
         "click_url": "/Blogs/?title=Nvidia+5000+Series+Are+MISLEADING%3F",
-        "window_argument": "_self"
-    },
-    {
-        "title": "My Domino's Experience",
-        "description": "Lost my aura at a Domino's... 😣",
-        "def_img": "/Blogs/Images/dominos_video/thumbnail.jpg",
-        "click_url": "/Blogs/?title=Losing+my+aura+at+a+Domino%27s",
         "window_argument": "_self"
     },
     {
