@@ -1,5 +1,24 @@
 [
     {
+        "title":"Some models I am working on for my upcoming game",
+        "subtitle":"I am making another game, and these are some of the models I am working on.",
+        "date": "22nd June 2025",
+        "imgs":[
+            "/Games/AnomalyWatchNightFall/Images/5.jpg",
+            "/Games/AnomalyWatchNightFall/Images/6.jpg",
+            "/Games/AnomalyWatchNightFall/Images/7.jpg",
+            "/Games/AnomalyWatchNightFall/Images/8.jpg",
+            "/Games/AnomalyWatchNightFall/Images/9.jpg",
+            "/Games/AnomalyWatchNightFall/Images/10.jpg",
+            "/Games/AnomalyWatchNightFall/Images/11.jpg",
+            "/Games/AnomalyWatchNightFall/Images/12.jpg",
+            "/Games/AnomalyWatchNightFall/Images/13.jpg",
+            "/Games/AnomalyWatchNightFall/Images/14.jpg",
+            "/Games/AnomalyWatchNightFall/Images/15.jpg"
+        ],
+        "tags":"InteriorDesigning, GameDev, Modelling, 3D, Blender, AnomalyWatchNightFall"
+    },
+    {
         "title":"BUGS & Unity!",
         "subtitle":"I just dropped another video on my YouTube. This time its about Unity, particularly UI Builder that comes with the 'new' UI solution - UI Toolkit. I explained how the UI builder is riddled with bugs, and expressed my honest opinion and anger on the topic.\n\n This video is yet another show of my video editing skills. I carefully added VFX, SFX, transitions and many effects to elevate the viewing experience. This is one of my best edited video till date! 🔥",
         "date": "10th June 2025",
