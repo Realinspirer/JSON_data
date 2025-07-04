@@ -1,5 +1,21 @@
 [
     {
+        "title":"Why I think BlackOps7 is a MASSIVE announcement 📢",
+        "subtitle":"BlackOps7 teaser dropped, and I wanted to give my opinion about it.\n\n The video is highly edited and packed with VFX, SFX, transitions and more! Check it out!",
+        "date": "4th July 2025",
+        "imgs":[
+            "/Blogs/Images/bo7_video/thumbnail_vignette.jpg"
+        ],
+        "tags":"Video, Gaming, BlackOps7, YouTube, VideoEditing, DaVinciResolve, VFX, Graphics",
+        "btns":[
+            {
+                "btn_string":"Watch Video",
+                "external":true,
+                "click_url":"https://youtu.be/EiyCRrofOnE"
+            }
+        ] 
+    },
+    {
         "title":"Some models I am working on for my upcoming game",
         "subtitle":"I am making another game, and these are some of the models I am working on.",
         "date": "22nd June 2025",
