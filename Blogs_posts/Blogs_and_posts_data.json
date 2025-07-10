@@ -4,7 +4,8 @@
         "subtitle":"BlackOps7 teaser dropped, and I wanted to give my opinion about it.\n\n The video is highly edited and packed with VFX, SFX, transitions and more! Check it out!",
         "date": "4th July 2025",
         "imgs":[
-            "/Blogs/Images/bo7_video/thumbnail_vignette.jpg"
+            "/Blogs/Images/bo7_video/thumbnail_vignette.jpg",
+            "/Blogs/Images/bo7_video/thumbnail_vert.jpg"
         ],
         "tags":"Video, Gaming, BlackOps7, YouTube, VideoEditing, DaVinciResolve, VFX, Graphics",
         "btns":[
@@ -12,6 +13,11 @@
                 "btn_string":"Watch Video",
                 "external":true,
                 "click_url":"https://youtu.be/EiyCRrofOnE"
+            },
+            {
+                "btn_string":"Watch Shorts Video",
+                "external":true,
+                "click_url":"https://youtube.com/shorts/tpGGw6q3gVo?feature=share"
             }
         ] 
     },
