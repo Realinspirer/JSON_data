@@ -1,5 +1,15 @@
 [
     {
+        "title":"Kitchen Materials and Shaders Look 👀",
+        "subtitle":"I finally completed some shaders for this kitchen model that I am making for an upcoming game of mine!",
+        "date": "23rd July 2025",
+        "imgs":[
+            "/Games/AnomalyWatchNightFall/Images/kitchen_render0.jpg",
+            "/Games/AnomalyWatchNightFall/Images/kitchen_render1.jpg"
+        ],
+        "tags":"Gaming, GameDevelopment, Blender, 3D, Shading, AWN"
+    },
+    {
         "title":"Why I think BlackOps7 is a MASSIVE announcement 📢",
         "subtitle":"BlackOps7 teaser dropped, and I wanted to give my opinion about it.\n\n The video is highly edited and packed with VFX, SFX, transitions and more! Check it out!",
         "date": "4th July 2025",
@@ -38,7 +48,7 @@
             "/Games/AnomalyWatchNightFall/Images/14.jpg",
             "/Games/AnomalyWatchNightFall/Images/15.jpg"
         ],
-        "tags":"InteriorDesigning, GameDev, Modelling, 3D, Blender, AnomalyWatchNightFall"
+        "tags":"InteriorDesigning, GameDev, Modelling, 3D, Blender, AWN"
     },
     {
         "title":"BUGS & Unity!",
@@ -82,7 +92,7 @@
             "/Games/AnomalyWatchNightFall/Images/3.jpg",
             "/Games/AnomalyWatchNightFall/Images/4.jpg"
         ],
-        "tags":"InteriorDesigning, GameDev, Modelling, 3D, AnomalyWatchNightFall"
+        "tags":"InteriorDesigning, GameDev, Modelling, 3D, AWN"
     },
     {
         "title":"Miner's Fury! is out on CrazyGames!",
