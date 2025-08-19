@@ -1,5 +1,11 @@
 [
-    
+    {
+        "title": "Avoid This Mistake!",
+        "description": "A nice advice - with some 🔥 editing!",
+        "def_img": "/Blogs/Images/videos/genius_programmer.jpg",
+        "click_url": "/Blogs/?title=Don%27t+Make+This+MISTAKE%21",
+        "window_argument": "_self"
+    },
     {
         "title": "Miner's Fury!",
         "description": "Addicting & Fun, PLAY NOW! 💥",

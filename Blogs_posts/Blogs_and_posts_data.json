@@ -1,5 +1,21 @@
 [
     {
+        "title":"Don't Make This MISTAKE!",
+        "subtitle":"Recently posted a video where I talked about a mistake that you should never make in programming.\n\n The video is yet another show of my video editing skills.",
+        "date": "19th August 2025",
+        "imgs":[
+            "/Blogs/Images/videos/genius_programmer.jpg"
+        ],
+        "tags":"Programming, Video, VideoEditing, YouTube, Podcast",
+        "btns":[
+            {
+                "btn_string":"Watch Video",
+                "external":true,
+                "click_url":"https://youtu.be/dktQvthhyqw?si=TmzqY4sB0Vfco-iy"
+            }
+        ] 
+    },
+    {
         "title":"Kitchen Materials and Shaders Look 👀",
         "subtitle":"I finally completed some shaders for this kitchen model that I am making for an upcoming game of mine!",
         "date": "23rd July 2025",
