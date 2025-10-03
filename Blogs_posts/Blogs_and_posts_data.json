@@ -1,5 +1,15 @@
 [
     {
+        "title":"Bedrooom Materials and Shaders Look 👀",
+        "subtitle":"I completed some more shaders for this bedroom model that I am making for an upcoming game of mine! I haven't setup the lighting yet, because it will be set in Unity.",
+        "date": "3th October 2025",
+        "imgs":[
+            "/Games/AnomalyWatchNightFall/Images/Bedroom0.jpg",
+            "/Games/AnomalyWatchNightFall/Images/Bedroom1.jpg"
+        ],
+        "tags":"Gaming, GameDevelopment, Blender, 3D, Shading, AWN"
+    },
+    {
         "title":"Don't Make This MISTAKE!",
         "subtitle":"Recently posted a video where I talked about a mistake that you should never make in programming.\n\n The video is yet another show of my video editing skills.",
         "date": "19th August 2025",
