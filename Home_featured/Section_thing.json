@@ -1,9 +1,9 @@
 [
     {
-        "title": "Avoid This Mistake!",
-        "description": "A nice advice - with some 🔥 editing!",
-        "def_img": "/Blogs/Images/videos/genius_programmer.jpg",
-        "click_url": "/Blogs/?title=Don%27t+Make+This+MISTAKE%21",
+        "title": "Correct Way to Play!",
+        "description": "Ranting about Keep Inventory with some 🔥 editing!",
+        "def_img": "/Blogs/Images/keep_inventory_rant/thumbnail.jpg",
+        "click_url": "/Blogs/?title=Keep+Inventory+Is+THE+RIGHT+WAY%21",
         "window_argument": "_self"
     },
     {
@@ -11,6 +11,13 @@
         "description": "Addicting & Fun, PLAY NOW! 💥",
         "def_img": "/Games/MinersFury/Images/thumbnail.jpg",
         "click_url": "/Games/MinersFury/",
+        "window_argument": "_self"
+    },
+    {
+        "title": "Avoid This Mistake!",
+        "description": "A nice advice - with some 🔥 editing!",
+        "def_img": "/Blogs/Images/videos/genius_programmer.jpg",
+        "click_url": "/Blogs/?title=Don%27t+Make+This+MISTAKE%21",
         "window_argument": "_self"
     },
     {
@@ -51,13 +58,6 @@
             }
         ],
         "click_url": "/Blogs/?title=Why+AAA+Games+Are+Dying%3F",
-        "window_argument": "_self"
-    },
-    {
-        "title": "Logos & Vector",
-        "description": "Vector based artworks!",
-        "def_img": "Images/Featured_section/logos_featured.png",
-        "click_url": "/Projects/#Designs",
         "window_argument": "_self"
     }
 ]

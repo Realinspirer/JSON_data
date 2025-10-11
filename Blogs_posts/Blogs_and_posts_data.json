@@ -1,5 +1,21 @@
 [
     {
+        "title":"Keep Inventory Is THE RIGHT WAY!",
+        "subtitle":"Check out my new video where I talk about why I think keeping inventory is actually the right way to play any game including Minecraft.\n\n The video contains some crazy editing and transitions, so check it out!\n\nNOTE: THE VIDEO WILL BE PUBLIC 1 DAY AFTER FROM THE POST!",
+        "date": "11th October 2025",
+        "imgs":[
+            "/Blogs/Images/keep_inventory_rant/thumbnail.jpg"
+        ],
+        "tags":"Talking, Video, VideoEditing, YouTube, Podcast, Minecraft, Gaming",
+        "btns":[
+            {
+                "btn_string":"Watch Video",
+                "external":true,
+                "click_url":"https://youtu.be/Cl3xwCvrURs"
+            }
+        ] 
+    },
+    {
         "title":"Bedroom Materials and Shaders Look 👀",
         "subtitle":"I completed some more shaders for this bedroom model that I am making for an upcoming game of mine! I haven't setup the lighting yet, because it will be set in Unity.",
         "date": "3rd October 2025",
