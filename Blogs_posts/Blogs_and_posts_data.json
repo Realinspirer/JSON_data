@@ -4,7 +4,8 @@
         "subtitle":"Check out my new video where I talk about why I think keeping inventory is actually the right way to play any game including Minecraft.\n\n The video contains some crazy editing and transitions, so check it out!",
         "date": "11th October 2025",
         "imgs":[
-            "/Blogs/Images/keep_inventory_rant/thumbnail.jpg"
+            "/Blogs/Images/keep_inventory_rant/thumbnail.jpg",
+            "/Blogs/Images/keep_inventory_rant/verticle_thumbb.jpg"
         ],
         "tags":"Talking, Video, VideoEditing, YouTube, Podcast, Minecraft, Gaming",
         "btns":[
@@ -12,6 +13,11 @@
                 "btn_string":"Watch Video",
                 "external":true,
                 "click_url":"https://youtu.be/Cl3xwCvrURs"
+            },
+            {
+                "btn_string":"Watch Shorts Video",
+                "external":true,
+                "click_url":"https://youtube.com/shorts/DjiFzJ60K6U"
             }
         ] 
     },

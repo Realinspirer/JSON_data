@@ -4,6 +4,12 @@
         "description": "Ranting about Keep Inventory with some 🔥 editing!",
         "def_img": "/Blogs/Images/keep_inventory_rant/thumbnail.jpg",
         "click_url": "/Blogs/?title=Keep+Inventory+Is+THE+RIGHT+WAY%21",
+        "other_imgs":[
+            {
+                "width":540,
+                "img_url":"/Blogs/Images/keep_inventory_rant/verticle_thumbb.jpg"
+            }
+        ],
         "window_argument": "_self"
     },
     {
