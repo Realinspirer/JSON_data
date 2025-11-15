@@ -1,5 +1,21 @@
 [
     {
+        "title":"Xbox Is DESTROYING Itself!",
+        "subtitle":"Check out my latest video where I talk about recent Game Pass changes - and how it's becoming a common thing for Xbox to kill itself.",
+        "date": "16th October 2025",
+        "imgs":[
+            "/Blogs/Images/xbox_rant/thumbnail.jpg"
+        ],
+        "tags":"Talking, Video, VideoEditing, YouTube, Podcast, Gaming, Xbox, XboxGamePass",
+        "btns":[
+            {
+                "btn_string":"Watch Video",
+                "external":true,
+                "click_url":"https://youtu.be/emwwvkEHPys"
+            }
+        ] 
+    },
+    {
         "title":"Keep Inventory Is THE RIGHT WAY!",
         "subtitle":"Check out my new video where I talk about why I think keeping inventory is actually the right way to play any game including Minecraft.\n\n The video contains some crazy editing and transitions, so check it out!",
         "date": "11th October 2025",
