@@ -18,6 +18,11 @@
                 "btn_string":"Watch Shorts Video (PART I)",
                 "external":true,
                 "click_url":"https://youtube.com/shorts/mL1e1jL59kw"
+            },
+            {
+                "btn_string":"Watch Shorts Video (PART II)",
+                "external":true,
+                "click_url":"https://youtube.com/shorts/2PhSYIiRdpY"
             }
         ] 
     },
