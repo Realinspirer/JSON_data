@@ -1,5 +1,22 @@
 [
     {
+        "title":"My latest video editing work!",
+        "subtitle":"Check out my latest video edit, along with this thumbnail design I did in Resolve.",
+        "date": "1st January 2026",
+        "imgs":[
+            "/Blogs/Images/video_edit_ink/thumbnail02.jpg",
+            "/Blogs/Images/video_edit_ink/thumbnail1.jpg"
+        ],
+        "tags":"Talking, Video, VideoEditing, YouTube, Podcast, Gaming, Resolve",
+        "btns":[
+            {
+                "btn_string":"Watch Video",
+                "external":true,
+                "click_url":"https://youtu.be/4hw0nnXJkvo?si=7k_xHxsQ_yLsPX6w"
+            }
+        ] 
+    },
+    {
         "title":"Washroom 3D Model Shader Preview",
         "subtitle":"I completed some more shaders for this washroom model that I have created for my upcoming game.",
         "date": "1st December 2025",
