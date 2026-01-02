@@ -1,5 +1,26 @@
 [
     {
+        "title":"UPDATE: I am now working with Inkslasher to edit his videos!",
+        "subtitle":"That's the update. And here's the classic cover art I made for this! I will ramp up everything from now on - Video editing + Game development & more!",
+        "date": "2nd January 2026",
+        "imgs":[
+            "/Blogs/Images/video_edit_ink/ink_edi.jpg"
+        ],
+        "tags":"Video, VideoEditing, YouTube, Gaming, Resolve, Inkslasher, Update",
+        "btns":[
+            {
+                "btn_string":"My channel",
+                "external":true,
+                "click_url":"https://www.youtube.com/@Realinspirer"
+            },
+            {
+                "btn_string":"Inkslasher's channel",
+                "external":true,
+                "click_url":"https://www.youtube.com/@Inkslasher"
+            }
+        ] 
+    },
+    {
         "title":"My latest video editing work!",
         "subtitle":"Check out my latest video edit, along with this thumbnail design I did in Resolve.",
         "date": "1st January 2026",
